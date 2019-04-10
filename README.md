@@ -28,21 +28,13 @@ set of input and the decoded image. Finally, we create new images with a normall
 generated dataset. This time, we don’t dropout by keeping the keep-prob=1.
 ## 2 Training and Testing Performance
 We start with a loss of 176.69328 and by the last iteration we reduce the loss to 27.416351.
-0 176.69328 176.68802 0.005269118
-3000 30.50178 21.248009 9.253771
-6000 29.328245 19.411682 9.916564
-9000 27.120705 17.117283 10.003421
-12000 28.194715 16.910442 11.284273
-15000 29.4137 19.280684 10.133017
-18000 27.697973 17.263563 10.43441
-21000 26.426815 16.04147 10.3853445
-24000 27.906342 16.722023 11.184317
-27000 27.416351 16.283142 11.133209
+
 ![Iteration 0](https://github.com/theperplexedmaverick/VAE-on-MNIST/blob/master/Iteration%200.PNG)
 ![Iteration 1](https://github.com/theperplexedmaverick/VAE-on-MNIST/blob/master/Iteration%201.PNG)
 ![Iteration 9](https://github.com/theperplexedmaverick/VAE-on-MNIST/blob/master/Iteration%209.PNG)
 
 We then create new objects using our model:-
+
 ![](https://github.com/theperplexedmaverick/VAE-on-MNIST/blob/master/Gen.PNG)
 ## 3 References
 
