@@ -38,6 +38,7 @@ We start with a loss of 176.69328 and by the last iteration we reduce the loss t
 21000 26.426815 16.04147 10.3853445
 24000 27.906342 16.722023 11.184317
 27000 27.416351 16.283142 11.133209
+(https://github.com/theperplexedmaverick/VAE-on-MNIST/blob/master/Iteration%200.PNG)
 
 We then create new objects using our model:-
 ## 3 References
